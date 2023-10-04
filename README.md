@@ -1,5 +1,5 @@
 # SlidingTilePuzzleAI
-###To test the code, run this command in the terminal  
+### To test the code, run this command in the terminal  
 'python3 Run.py 3 120 -m ULLURRDDLLUURDR'  
 
 ---
